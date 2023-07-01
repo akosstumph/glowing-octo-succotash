@@ -5,6 +5,6 @@
 The task was really helpful to learn some functions of **SQL(joining tables, sorting, filtering, grouping, aggregates, aliases, wildcards, case when)**
 Tableau: data visualisation, filtering, calculations
 Present all the findings and have decision to invest in Brazil.
-The database what I used for analyses can be found here. 
-https://edubge-my.sharepoint.com/:u:/g/personal/stumph_akos_sandor_16_unibge_hu/ESf1fF1TnHdHjC7xV130TXkBadmYmrRYbJPWn1h6fS3a8g?e=ChfL0L
+The database what I used for analyses can be found here:
+[Database](https://edubge-my.sharepoint.com/:u:/g/personal/stumph_akos_sandor_16_unibge_hu/ESf1fF1TnHdHjC7xV130TXkBadmYmrRYbJPWn1h6fS3a8g?e=ChfL0L)
 
